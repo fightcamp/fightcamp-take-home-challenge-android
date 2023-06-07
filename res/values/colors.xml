@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_gray0">#FFEDF0F2</color>
+    <color name="brand_gray1">#FFDDDFE1</color>
+    <color name="brand_gray2">#FFB4B9BE</color>
+    <color name="brand_gray3">#FF91989E</color>
+    <color name="brand_gray4">#FF4F555C</color>
+    <color name="brand_gray5">#FF31363B</color>
+    <color name="brand_gray6">#FF14171A</color>
+</resources>
