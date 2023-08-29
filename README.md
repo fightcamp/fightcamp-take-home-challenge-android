@@ -83,7 +83,7 @@ This goal will combine the data you have been able to fetch from the first goal 
 
 - Must compile
 - Kotlin (no Java)
-- Jetpack Jompose for the UI
+- Jetpack Compose for the UI
 - We recommend MVVM architecture and Android Achitecture Componens (even considering the small size of the app)
 - Make sure it looks good in both light and dark mode
 - Limit the number of third-party libraries or dependencies to the one you really need. It's okay to use Retrofit, Gson, etc.
